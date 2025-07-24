@@ -1,5 +1,3 @@
-# SIGYL | Crypto AI Layer
-
 <div align="center">
 
 <!-- Metallic Grey Gradient Header -->
@@ -241,7 +239,6 @@ We're building the infrastructure for:
 ### Learn More
 
 [![Website](https://img.shields.io/badge/Visit-sigyl.ai-1a1a2e?style=for-the-badge&logo=google-chrome&logoColor=E8E8EE)](https://sigyl.ai)
-[![Demo](https://img.shields.io/badge/Try-Demo-2d2d3d?style=for-the-badge&logo=rocket&logoColor=E8E8EE)](https://www.sigyl.ai/demo)
 [![Links](https://img.shields.io/badge/All%20Links-Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/sigylai)
 
 </div>
